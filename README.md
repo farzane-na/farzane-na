@@ -1,7 +1,9 @@
 ### Hi there 👋
 I am a junior Front End developer. Also, I design a site by WordPress. At the moment my knowledge makes progress.
 ## My Skills
-![My Skills](https://skillicons.dev/icons?i=js,html,css,WordPress)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,wordpress)
+## Contact Me
+![Contact Me](https://skillicon.dev/gmail)
 <!--
 - 🔭 I’m currently working on Front-End.
 - 🌱 I’m currently learning Jvascript.
