@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./logo.svg"/>
+  <img src="./logo.png"/>
 </div>
 ### Hi there 👋
 I am a junior Front End Web developer.
