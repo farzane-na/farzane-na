@@ -6,10 +6,10 @@ Also, I design a site by WordPress. At the moment my knowledge makes progress.Yo
 ## Social
 <div id="badges">
   <a href="https://t.me/frx25">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://www.instagram.com/frx25_?igsh=MTE2OGtwaGJ3MjRkdg==">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
 <!--
