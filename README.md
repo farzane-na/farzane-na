@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="./logo.png"/>
+</div>
+
+
 ### Hi there 👋
 I am a junior Front End Web developer.
 Also, I design a site by WordPress. At the moment my knowledge makes progress.You can see my exercises and projects in the repository section of my GitHub.
