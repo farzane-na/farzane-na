@@ -1,10 +1,3 @@
-<div align="center">
-  <a href="https://farzanenazmabadi.liara.run">
-    <img src="./logo.png"/>
-  </a>
-</div>
-
-
 ### Hi there 👋
 I am a junior Front End Web developer.
 Also, I design a site by WordPress. At the moment my knowledge makes progress.You can see my exercises and projects in the repository section of my GitHub.
