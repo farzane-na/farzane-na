@@ -2,7 +2,7 @@
 I am a junior Front End Web developer.
 Also, I design a site by WordPress. At the moment my knowledge makes progress.You can see my exercises and projects in the repository section of my GitHub.
 ## My Skills
-![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,js,react,alpinejs,mongodb,postman,wordpress,git&perline=5)
+![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,js,react,alpinejs,mongodb,nodejs,postman,wordpress,git&perline=5)
 ## Social
 <div id="badges">
   <a href="https://t.me/frx25">
