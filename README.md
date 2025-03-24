@@ -1,5 +1,5 @@
-<img src="./coding.jpg" />
 ### Hi there 👋
+<img src="./coding.jpg" />
 I am a junior Front End Web developer.
 Also, I design a site by WordPress. At the moment my knowledge makes progress.You can see my exercises and projects in the repository section of my GitHub.
 ## My Skills
