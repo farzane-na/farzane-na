@@ -1,5 +1,4 @@
 ### Hi there 👋
-<img src="./coding.jpg" />
 I am a junior Front End Web developer.
 Also, I design a site by WordPress. At the moment my knowledge makes progress.You can see my exercises and projects in the repository section of my GitHub.
 ## My Skills
@@ -15,6 +14,8 @@ Also, I design a site by WordPress. At the moment my knowledge makes progress.Yo
   <a href="https://www.linkedin.com/in/farzane-nazmabadi-40a02633b">
     <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
   </a>
+  
+<img src="./coding.jpg" />
 </div>
 <!--
 - 🔭 I’m currently working on Front-End.
