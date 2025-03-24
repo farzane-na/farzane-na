@@ -6,6 +6,7 @@ Also, I design a site by WordPress. At the moment my knowledge makes progress.Yo
 ![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,js,react,alpinejs,mongodb,nodejs,postman,wordpress,git&perline=5)
 ## Social
 <div id="badges">
+  <img src="./coding.jpg" />
   <a href="https://t.me/frx25">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
